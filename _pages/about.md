@@ -8,15 +8,10 @@ redirect_from:
 ---
 
 
-I'm a third year undergraduate student from [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese Univeristy of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). My research interest includes signal processing, cognitive neuroscience(Attention, Speech and Language, Momery, Sleep), and computational neuroscience.
+I am a senior undergraduate student from [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese Univeristy of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I am currently working as a Research Intern at the SLANG Laboratory in [NYU Shanghai](https://shanghai.nyu.edu/)At the same time, I am also a research assistant in the Swartz Center for Computational Neuroscience of Institute of Neural Computation in [UCSD](https://ucsd.edu/). My research interest includes signal processing, cognitive neuroscience(Attention, Speech and Language, Momery, Sleep), and computational neuroscience.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Xing Tian](https://shanghai.nyu.edu/academics/faculty/directory/xing-tian) of [SLANG](https://slangscience.github.io/slang/index.html) from [NYU-ECNU Institute of Brain and Cognitive Science](https://bcs.shanghai.nyu.edu/en), New York University Shanghai. I am also advised by [Prof. Tzyy-Ping Jung](https://sccn.ucsd.edu/~jung/) of [Swartz Center for Computational Neuroscience](https://sccn.ucsd.edu/) from [Institute of Neural Computation](https://inc.ucsd.edu/index.php), University of California, San Diego.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-————————————————
-
-                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-                        
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
